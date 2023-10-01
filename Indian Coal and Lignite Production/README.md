@@ -2,7 +2,7 @@
 
 This plot visualizes the coal and lignite production in various states for the year 2019-2020.
 
-![coal_plot](https://github.com/aswanijehangeer/R-Graphs/blob/main/Animated%20Graphs/Gapminder%20Animation.gif)
+![coal_plot](coal_plot)
 
 
 ### Data Source: 
