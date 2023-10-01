@@ -2,7 +2,7 @@
 
 This plot visualizes the coal and lignite production in various states for the year 2019-2020.
 
-![coal_plot](coal_plot)
+![coal_plot](coal_plot.png)
 
 
 ### Data Source: 
