@@ -12,3 +12,7 @@
 
 ![Google Play Store Ratings](https://github.com/aswanijehangeer/R-Graphs/blob/main/Animated%20Graphs/Google%20Play%20Store%20Ratings%20Animation.gif)
 
+
+### India Coal and Lignite Production Map
+
+![India Coal Production](https://github.com/aswanijehangeer/R-Graphs/blob/main/Indian%20Coal%20and%20Lignite%20Production/coal_plot.png)
